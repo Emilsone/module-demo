@@ -1,0 +1,32 @@
+body {
+  font-family: Work Sans, sans-serif;
+}
+
+._4_rjFG_card {
+  width: 30%;
+  margin: auto;
+  box-shadow: 0 5px 10px #0006;
+}
+
+._4_rjFG_img {
+  width: 100%;
+}
+
+._4_rjFG_container {
+  padding: 30px 16px;
+  line-height: 2rem;
+}
+
+._4_rjFG_heading {
+  font-size: 2rem;
+  font-weight: 1rem;
+}
+
+._4_rjFG_link {
+  color: #fff;
+  background-color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=index.79467918.css.map */
