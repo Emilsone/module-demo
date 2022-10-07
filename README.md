@@ -1,4 +1,4 @@
-# module-demo
+# CSS-Module-Demo
 
 
 
